@@ -19,7 +19,7 @@ int _strlen(char *s)
 }
 
 /**
- * _strcpy - copy arrays
+ * _strcpy: copy arrays
  * @src: array of elements
  * @dest: dest array
  * Retrun: dest
@@ -40,7 +40,7 @@ char *_strcpy(char *dest, char *src)
 }
 
 /**
- * _strdup - array for prints a string
+ * _strdup: array for prints a string
  * @str: array of elements
  * Retrun: pointer
  */
