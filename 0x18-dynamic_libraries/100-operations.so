@@ -1,3 +1,5 @@
+#!/bin/bash
+
 0000000000000705 T add
 0000000000201030 B __bss_start
                  w __cxa_finalize
